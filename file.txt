@@ -1,0 +1,7 @@
+Number: 280
+Controlled: -
+Depart station: jkdfjsdfj
+Depart date: 5/6/55  54:25
+Arrive station: fsjlr
+Arrive date: 54165/656/665  54:55546
+Race number: 644
